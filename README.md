@@ -1,6 +1,6 @@
 # Llama Superfast
 
-There are many llama forks, but this one is mine :)
+This is my personal fork of llama superfast v100: https://codeberg.org/justanagent/llama-superfast-v100. 
 
 We have made llama ultra superfast for v100. We specialize in two models: Qwen 27B 3.8 and Qwen Flash Next 3.8.
 
